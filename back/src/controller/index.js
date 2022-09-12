@@ -1,5 +1,5 @@
-const doctor = require('./doctor.controller')
+const product = require('./doctor.controller')
 
 module.exports = {
-    doctor
+    product
 }

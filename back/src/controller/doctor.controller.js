@@ -1,6 +1,6 @@
 const genericCrud = require('./generic.controller');
-const { Doctor } = require('../model')
+const { Product } = require('../model')
 
 module.exports = {
-  ...genericCrud(Doctor)
+  ...genericCrud(Product)
 };

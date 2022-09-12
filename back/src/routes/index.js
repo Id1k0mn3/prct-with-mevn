@@ -1,5 +1,5 @@
 module.exports = {
     routes: [
-        'doctors'
+        'product'
     ],
 }

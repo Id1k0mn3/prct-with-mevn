@@ -1,5 +1,5 @@
-const Doctor = require('./Doctor');
+const Product = require('./Product');
 
 module.exports = {
-  Doctor
+  Product
 }
