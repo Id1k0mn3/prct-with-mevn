@@ -1,6 +1,5 @@
 module.exports = {
     routes: [
-        'doctors',
-        'menuItems'
+        'doctors'
     ],
 }
