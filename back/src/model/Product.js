@@ -1,17 +1,34 @@
-const { model, Schema } = require('mongoose');
+const { model, Schema, Schema: { Types: { ObjectId } } } = require('mongoose');
 
 const schema = new Schema({
-  name: {
+  title: {
     type: String,
     default: '',
   },
-  description: { 
-    type: String, 
+
+  description: {
+    type: String,
     default: '',
   },
-  imageUrl: { 
-    type: String, 
+
+  price: {
+    type: Number,
     default: '',
+  },
+
+  amount: {
+    type: Number,
+    default: '',
+  },
+
+  image: {
+    type: String,
+    default: '',
+  },
+
+  category: {
+    type: ObjectId,
+    ref: 'Category',
   },
 })
 

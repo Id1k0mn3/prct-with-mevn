@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e646187c-6408-411c-b854-7c5eb056a99c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/client/layouts/default.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/layouts/footerComponent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/layouts/headerComponent.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/components/NuxtLogo.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/components/Tutorial.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/nuxt.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/nuxt.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/pages/index.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +34,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/proj/mevn-builder",
+    "last_opened_file_path": "E:/proj/venecia",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "yarn",
@@ -48,7 +50,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663013540268</updated>
-      <workItem from="1663013541982" duration="1054000" />
+      <workItem from="1663013541982" duration="2026000" />
+      <workItem from="1663046749148" duration="103000" />
+      <workItem from="1663181964836" duration="5502000" />
     </task>
     <servers />
   </component>

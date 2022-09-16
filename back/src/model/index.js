@@ -1,5 +1,7 @@
 const Product = require('./Product');
+const Category = require('./Category');
 
 module.exports = {
-  Product
+  Product,
+  Category
 }
