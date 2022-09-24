@@ -7,7 +7,7 @@ const { routes } = require('./src/routes');
 const cors = require('cors');
 
 mongoose.connect(
-    'mongodb://localhost:27017/menv',
+    'mongodb://localhost:27017/online-shop',
 );
 
 const app = express();
