@@ -16,6 +16,10 @@ export default {
   components: {
     headerComponent,
     footerComponent
+  },
+
+  mounted() {
+    console.log('123123')
   }
 }
 </script>
